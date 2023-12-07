@@ -41,11 +41,11 @@ namespace RecuperacionU1y2
                 Console.WriteLine($"Posicion{i}: {producto[i]}");
             }
         }
-        public void BuscarPrecio(int precio)
-        {
-            int izquierda = 0;
+        //public void BuscarPrecio(int precio)
+        //{
+        //   if(producto.Precio)
             
-        }
+        //}
     }
     
 }
